@@ -1,5 +1,7 @@
 ## FRONTEND TEKNOLOJİLERİ
 
+axios
+
 lucide-react
 
 react-hot-toast
@@ -10,8 +12,6 @@ react-router-dom
 
 zustand
 ## BACKEND TEKNOLOJİLERİ
-
-axios
 
 bcryptjs
 
